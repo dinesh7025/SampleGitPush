@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\application\\userinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\application\\userinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|d:\\c# training(.net)\\tbs main\\ticketbookingsystemmain\\ticketbookingsystem\\exceptions\\invalidbookingidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F73DFE-64B7-4319-9B77-E675083C8C94}|TicketBookingSystem\\TicketBookingSystem.csproj|solutionrelative:ticketbookingsystem\\exceptions\\invalidbookingidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Concert.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Concert.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Concert.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:06:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Event.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Event.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:25:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Venue.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Venue.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Venue.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:34:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Booking.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Booking.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:40:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInterfaceService.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Application\\UserInterfaceService.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Application\\UserInterfaceService.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Application\\UserInterfaceService.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Application\\UserInterfaceService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwFYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:01:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sports.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Sports.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Sports.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Sports.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Sports.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:46:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidBookingIDException.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Exceptions\\InvalidBookingIDException.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Exceptions\\InvalidBookingIDException.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Exceptions\\InvalidBookingIDException.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Exceptions\\InvalidBookingIDException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:46:46.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Movie.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Movie.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Movie.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:43:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TicketBookingSystem\\Models\\Customer.cs",
+              "ToolTip": "D:\\C# Training(.NET)\\TBS Main\\TicketBookingSystemMain\\TicketBookingSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "TicketBookingSystem\\Models\\Customer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:37:07.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
